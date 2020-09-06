@@ -46,7 +46,7 @@ var con = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "YOUR PASSWORD",
+  password: "misar98#",
   database: "employee_tracker_db",
   multipleStatements: true
 });

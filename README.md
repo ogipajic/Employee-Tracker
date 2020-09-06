@@ -5,4 +5,6 @@ MySQL
 * Added datebase
 * Package json
 * server.js
+* added picture yo assets file
+
 
